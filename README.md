@@ -1,2 +1,3 @@
 # hello-world
-Hello there my name is  Calvin Yeboah
+Hello there my name is  Calvin Yeboah.
+Welcome.
